@@ -1,0 +1,24 @@
+{
+  "name": "spawn-extension-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate for writing Spawn extensions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aaronong/SpawnExtensionBoilerplate.git"
+  },
+  "keywords": ["Spawn", "Extension", "boilerplate", "data", "generator"],
+  "author": "Aaron Ong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aaronong/SpawnExtensionBoilerplate/issues"
+  },
+  "homepage": "https://github.com/Aaronong/SpawnExtensionBoilerplate#readme",
+  "dependencies": {
+    "spawn-extension": "^1.0.0"
+  }
+}
