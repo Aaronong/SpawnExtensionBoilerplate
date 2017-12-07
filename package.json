@@ -2,7 +2,7 @@
   "name": "spawn-extension-boilerplate",
   "version": "1.0.0",
   "description": "A boilerplate for writing Spawn extensions.",
-  "main": "index.js",
+  "main": "extension.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node start.js"
