@@ -11,7 +11,13 @@
     "type": "git",
     "url": "git+https://github.com/Aaronong/SpawnExtensionBoilerplate.git"
   },
-  "keywords": ["Spawn", "Extension", "boilerplate", "data", "generator"],
+  "keywords": [
+    "Spawn",
+    "Extension",
+    "boilerplate",
+    "data",
+    "generator"
+  ],
   "author": "Aaron Ong",
   "license": "ISC",
   "bugs": {
@@ -19,6 +25,6 @@
   },
   "homepage": "https://github.com/Aaronong/SpawnExtensionBoilerplate#readme",
   "dependencies": {
-    "spawn-extension": "^1.0.0"
+    "spawn-extension": "^1.0.1"
   }
 }
